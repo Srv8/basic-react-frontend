@@ -1,6 +1,9 @@
 ## Project title
 This is a simple Reactjs frontend SPA.
 
+## Project URL
+Project is live at : https://react-sample-front.netlify.app/
+
 ## Motivation
 Use this as a template for future projects.
 
